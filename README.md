@@ -13,9 +13,9 @@ Projeto desenvolvido durante a semana **NLW3 da RocketSeat** a aplicação compl
 ## Previews
 ### Aplicação web
 ![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web1.png?raw=true)
-![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web1.png?raw=true)
-![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web1.png?raw=true)
-![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web1.png?raw=true)
+![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web2.png?raw=true)
+![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web3.png?raw=true)
+![web](https://github.com/WallaceFrota/Happy/blob/main/screenshots/preview-web4.png?raw=true)
 ### Aplicação mobile
 ![preview mobile](http://i.giphy.com/5kSnDmRS7aALi4I3MJ/wmZjvoaA/giphy.gif)
 
